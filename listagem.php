@@ -8,7 +8,7 @@ try {
 }
 ?>
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pc">
 <head>
     <meta charset="UTF-8">
     <title>Listagem de Celulares</title>
